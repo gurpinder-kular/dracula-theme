@@ -1,0 +1,9 @@
+configuration {
+    modes: [run,drun,window,ssh,calc];
+    show-icons: true;
+    display-drun: "Apps";
+    display-window: "Running apps";
+    hint-welcome: "fg";
+}
+
+@theme "./dracula.rasi"
